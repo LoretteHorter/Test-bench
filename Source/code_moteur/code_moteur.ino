@@ -4,7 +4,7 @@
 #define IN4  8
 int Steps = 0;
 int Direction = 0;
-int number_steps=700;//= 2048/4
+int number_steps=3000;//= 2048/4
 void setup()
 {
 Serial.begin(9600);
